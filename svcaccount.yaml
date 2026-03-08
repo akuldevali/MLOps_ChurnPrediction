@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ServiceAccount
+metadata:
+  name: sa-s3-access
+  namespace: svc-account
+secrets:
+- name: s3-secret
