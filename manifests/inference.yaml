@@ -9,4 +9,4 @@ spec:
     model:
       modelFormat:
         name: sklearn
-      storageUri: "s3://mlops-churn-akuldevali/model/churn_model.pkl"
+      storageUri: s3://mlops-churn-akuldevali/models/churn_model.pkl
